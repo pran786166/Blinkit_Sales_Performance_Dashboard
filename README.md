@@ -32,7 +32,7 @@ The dataset includes detailed sales data across the following dimensions:
 ---
 
 ## Dashboard Preview
-  ![DASHBOARD]([image-url](https://github.com/pran786166/Blinkit_Sales_Performance_Dashboard/blob/main/Page_1_of_Dashboard.png))
+  ([image-url](https://github.com/pran786166/Blinkit_Sales_Performance_Dashboard/blob/main/Page_1_of_Dashboard.png))
 
 ## How to Use
 1. **Open PowerBI**: Launch Microsoft PowerBI on your machine.

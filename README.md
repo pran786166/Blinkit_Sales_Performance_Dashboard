@@ -2,7 +2,7 @@
 
 Team 2
 
-Mentor by : Ajith Kumar
+Mentor by : Ajith Kumar S
 
 Team Leader : Praneet
 

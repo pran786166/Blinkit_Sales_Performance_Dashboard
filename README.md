@@ -1,5 +1,9 @@
 # **Blinkit Sales Performance Dashboard**
 
+Team 2
+Mentor by : Ajith Kumar
+Team Members : Praneet, Rengadurai, Shreshtha, Tressa, Nitish A, Devansh
+
 ## **Project Overview**  
 The Blinkit Sales Performance Dashboard is a PowerBI project designed to provide comprehensive insights into sales performance across various dimensions. It answers critical business questions, highlights key drivers of sales, and predicts future trends to aid in decision-making.
 

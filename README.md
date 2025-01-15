@@ -3,7 +3,7 @@
 Team 2
 
 Mentor by : Ajith Kumar
-
+Team Leader : Praneet
 Team Members : Praneet, Rengadurai, Shreshtha, Tressa, Nitish A, Devansh
 
 ## **Project Overview**  
